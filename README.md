@@ -52,7 +52,9 @@ The approach is inspired and validated against multiple research studies utilizi
 ```bash
 pip install -r requirements.txt
 
-🧩 System Architecture
+---
+
+## 🧩 System Architecture
 
 User Input (Text)
       ↓
@@ -64,8 +66,11 @@ Classification Output: {Cyberbullying / Not Cyberbullying}
       ↓
 Frontend Display or Action Handler
 
-🚀 Implementation
+---
 
+## 🚀 Implementation
+
+'''
 1. Clone this repository:
 
 git clone https://github.com/your-username/CyberBullying-Detection.git
@@ -80,30 +85,38 @@ python app.py
 
 4.Access the frontend UI via your browser if available, or interact with the API endpoints directly.
 
-📊 Results
->High accuracy classification of offensive vs. non-offensive messages
+'''
+---
 
->Detection of cyberbullying behavior patterns including:
+## 📊 Results
 
-Harassment
+- High accuracy classification of offensive vs. non-offensive messages
 
-Hate speech
+- Detection of cyberbullying behavior patterns including:
 
-Threatening language
+- Harassment
 
-Name-calling / Insults
+- Hate speech
 
-📈 Conclusion & Future Work
+- Threatening language
+
+- Name-calling / Insults
+
+---
+
+## 📈 Conclusion & Future Work
 This project demonstrates a viable deep learning framework for real-time detection of cyberbullying. Its modular design allows easy integration into messaging apps, social platforms, or school portals.
 
-🔮 Future Enhancements
->Multi-language support for regional abuse detection
+---
 
->Cross-platform moderation (text, image, video)
+## 🔮 Future Enhancements
+- Multi-language support for regional abuse detection
 
->Integration with chatbots or social APIs
+- Cross-platform moderation (text, image, video)
 
->Collaboration with legal/educational institutions
+- Integration with chatbots or social APIs
 
->Adaptive learning to detect evolving slang and internet language
+- Collaboration with legal/educational institutions
+
+- Adaptive learning to detect evolving slang and internet language
 
