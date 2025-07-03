@@ -49,8 +49,8 @@ The approach is inspired and validated against multiple research studies utilizi
 - pip (Python package manager)
 
 **Libraries:**
-```bash
-pip install -r requirements.txt
+
+- pip install -r requirements.txt
 
 ---
 
@@ -70,7 +70,7 @@ Frontend Display or Action Handler
 
 ## 🚀 Implementation
 
-'''
+```
 1. Clone this repository:
 
 git clone https://github.com/your-username/CyberBullying-Detection.git
@@ -85,7 +85,7 @@ python app.py
 
 4.Access the frontend UI via your browser if available, or interact with the API endpoints directly.
 
-'''
+```
 ---
 
 ## 📊 Results
