@@ -57,13 +57,13 @@ The approach is inspired and validated against multiple research studies utilizi
 ## 🧩 System Architecture
 
 User Input (Text)
-      ↓
+↓
 Text Preprocessing (Tokenization, Cleaning)
-      ↓
+↓
 Deep Neural Network (DNN) Classifier
-      ↓
+↓
 Classification Output: {Cyberbullying / Not Cyberbullying}
-      ↓
+↓
 Frontend Display or Action Handler
 
 
